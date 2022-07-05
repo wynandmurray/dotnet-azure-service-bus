@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-core-azure-service-bus-sender", "dotnet-core-azure-service-bus-sender\dotnet-core-azure-service-bus-sender.csproj", "{8440F4E5-C545-47B3-878F-F5D9F69471B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-core-azure-service-bus-receiver", "dotnet-core-azure-service-bus-receiver\dotnet-core-azure-service-bus-receiver.csproj", "{80DD0FC2-E4D4-4019-AB76-E28E8356DA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8440F4E5-C545-47B3-878F-F5D9F69471B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8440F4E5-C545-47B3-878F-F5D9F69471B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8440F4E5-C545-47B3-878F-F5D9F69471B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8440F4E5-C545-47B3-878F-F5D9F69471B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DD0FC2-E4D4-4019-AB76-E28E8356DA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DD0FC2-E4D4-4019-AB76-E28E8356DA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DD0FC2-E4D4-4019-AB76-E28E8356DA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DD0FC2-E4D4-4019-AB76-E28E8356DA82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B18C5E-42FD-4D84-B859-D1CABD487C57}
+	EndGlobalSection
+EndGlobal
